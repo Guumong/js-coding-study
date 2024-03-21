@@ -79,10 +79,10 @@ git commit -m "[FIXED][PGS] 가장 큰 수 / LV 2 / 1h 30m"
 - 기술적인 지식, 노하우 공유
 - 히스토리 전달
   
-P1: 꼭 반영해주세요 (Request changes)
-P2: 적극적으로 고려해주세요 (Request changes)
-P3: 웬만하면 반영해 주세요 (Comment)
-P4: 반영해도 좋고 넘어가도 좋습니다 (Approve)
-P5: 그냥 사소한 의견입니다 (Approve)
+P1: 꼭 반영해주세요 (Request changes) <br>
+P2: 적극적으로 고려해주세요 (Request changes) <br>
+P3: 웬만하면 반영해 주세요 (Comment) <br>
+P4: 반영해도 좋고 넘어가도 좋습니다 (Approve) <br>
+P5: 그냥 사소한 의견입니다 (Approve) <br>
 
 ex) p4; travis로 되어있는 옛날 파이프라인 org도 옮겨주기
