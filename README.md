@@ -61,7 +61,7 @@
       <tr>
         <td align="center"><a href="https://github.com/heesun729"><img src="https://avatars.githubusercontent.com/u/91944542?v=4" width="163px; style="vertical-align:top" alt=""/>
         <td align="center"><a href="https://github.com/gangmin2"><img src="https://avatars.githubusercontent.com/u/96777845?v=4" width="163px; style="vertical-align:top" alt=""/>
-        <td align="center"><a href="https://github.com"><img src="https://avatars.githubusercontent.com/u/63189595?v=4" width="163px; style="vertical-align:top" alt=""/>
+        <td align="center"><a href="https://github.com/ChaeYubin"><img src="https://avatars.githubusercontent.com/u/63189595?v=4" width="163px; style="vertical-align:top" alt=""/>
       </tr>
       <tr>
         <td align="center"><a href="https://github.com/heesun729"><b>Player 04<br/>희선</b></a></td>
