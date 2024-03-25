@@ -6,7 +6,7 @@
   
   ![study goal](https://github.com/Guumong/js-coding-study/assets/53262430/0e45be1a-574c-4ada-9f72-a579a2d9de95)
 
-  <br/><br/>
+  <br/>
   
   <table>
     <tr>
@@ -27,7 +27,7 @@
   
   ![study member](https://github.com/Guumong/js-coding-study/assets/53262430/1a3961e2-ba39-47b6-90d5-e17d51c2a93f)
 
-  <br/><br/>
+  <br/>
 
   <div align='center'>
     <table>
@@ -51,8 +51,10 @@
         <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
         <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
       </tr>
-      </table>
-    </div>
+    </table>
+  </div>
+
+  <br/>
     
   <div align='center'>
     <table>
@@ -83,7 +85,7 @@
 
   ![이메일 헤더 Gumong (8)](https://github.com/Guumong/js-coding-study/assets/53262430/b9707617-7984-41e1-aacb-a65fe53e18ea)
 
-  <br/><br/>
+  <br/>
 
   <table align='center'>
     <tr>
