@@ -61,12 +61,12 @@
       <tr>
         <td align="center"><a href="https://github.com/heesun729"><img src="https://avatars.githubusercontent.com/u/91944542?v=4" width="163px; style="vertical-align:top" alt=""/>
         <td align="center"><a href="https://github.com/gangmin2"><img src="https://avatars.githubusercontent.com/u/96777845?v=4" width="163px; style="vertical-align:top" alt=""/>
-        <td align="center"><a href="https://github.com"><img src="" width="163px; style="vertical-align:top" alt=""/>
+        <td align="center"><a href="https://github.com"><img src="https://avatars.githubusercontent.com/u/63189595?v=4" width="163px; style="vertical-align:top" alt=""/>
       </tr>
       <tr>
         <td align="center"><a href="https://github.com/heesun729"><b>Player 04<br/>희선</b></a></td>
-        <td align="center"><a href="https://github.com/gangmin2"><b>Player 05</br>강민</b></a></td>
-        <td align="center"><a href="https://github.com"><b>Player 06<br/>유빈</b></a></td>
+        <td align="center"><a href="https://github.com/gangmin2"><b>Player 05</br>경민</b></a></td>
+        <td align="center"><a href="https://github.com/ChaeYubin"><b>Player 06<br/>유빈</b></a></td>
       </tr>
       <tr>
         <td align="center"><a href="https://solved.ac/profile/heesun729"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heesun729" style="vertical-align:top" width="163px;" /></a></td>
