@@ -21,3 +21,4 @@ function solution(k, tangerine) {
 // sizeArr에 내림차순 나열
 // 반복문을 돌면서, K개에서 sizeArr의 첫 요소부터 빼고
 // 귤의 종류 개수를 카운트++
+// 블로그 .. 참고.. 많이했습니다 ..
